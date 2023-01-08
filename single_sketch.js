@@ -14,7 +14,7 @@ function draw(){
   text('3rd_brewery', 0,0);
   line(0,0,width,0);
   text('3rd_brewery', 0,10 + windowHeight/7 );
-  line(0,10 + windowHeight/7,width,10 + windowHeight/);
+  line(0,10 + windowHeight/7,width,10 + windowHeight/7);
   text('3rd_brewery', 0,10 + 2*windowHeight/7);
   text('3rd_brewery', 0,10 + 3*windowHeight/7);
   showWinSize();
